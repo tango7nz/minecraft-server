@@ -46,7 +46,7 @@ The servers are protected by whitelists, so you can only join if approved. The i
 
 Hugh is the admin. If any other parents who would like to help with administrative control / monitoring, please let me know (or if you want to play as well!!)
 
-Anyone who wants to play on the servers needs to email leestonmc@outlook.co.nz with the following details
+Anyone who wants to play on the servers needs to email leestonmc@outlook.co.nz (goes to Hugh) with the following details
 
 - Your minecraft name
 - Your real name
