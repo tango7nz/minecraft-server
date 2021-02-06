@@ -60,5 +60,5 @@ The address for both servers is minecraft.burns.kiwi, however to connect to the 
 minecraft.burns.kiwi
 
 ### Server 2 - Anarchy
-minecfraft.burns.kiwi:25555
+minecraft.burns.kiwi:25555
 
